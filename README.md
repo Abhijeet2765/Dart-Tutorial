@@ -13,3 +13,6 @@
             Players take turns contributing a word to fill each blank space, without knowing the context of the story.
             The words are inserted into the story, creating a unique and often hilarious narrative.
             The story is then read aloud, revealing the silly and unexpected combinations of words.
+
+        List:
+            This File Contains simple List Operations like removing element, adding element, insert element at specific index etc. 
