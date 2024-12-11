@@ -5,6 +5,7 @@ void main() {
   num.insert(1, 22);
   num.remove(33);
   num.removeAt(2);
+  print(num.indexOf(99));
   print("List Before Removerange :$num");
   num.removeRange(5, 8);
   print(num);
