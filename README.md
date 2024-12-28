@@ -16,3 +16,8 @@
 
         List:
             This File Contains simple List Operations like removing element, adding element, insert element at specific index etc. 
+
+        Function:
+            In Dart, functions are fundamental building blocks used to encapsulate reusable logic, reduce code duplication, and improve readability and maintainability. Functions are used to perform specific tasks or computations, and they can take inputs (parameters) and produce outputs (return values).
+            Simplify the code and reduce the code size as no need to write similar code multiple times.
+
